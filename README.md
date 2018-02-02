@@ -1,2 +1,2 @@
 # python-skeleton
-Simple python skeleton codes.
+python skeleton codes.
